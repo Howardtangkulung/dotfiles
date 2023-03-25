@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = howardtangkulung@gmail.com
+	name = Howard Tangkulung
